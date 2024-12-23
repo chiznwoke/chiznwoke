@@ -1,4 +1,4 @@
-# Welcome, I'm Chiz
+# Hello, I'm Chiz
 <a href="https://www.linkedin.com/in/chizom-nwoke/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
